@@ -1,0 +1,4 @@
+fastapi==0.90.0
+SQLAlchemy[mypy]==2.0.2
+uvicorn[standard]==0.20.0
+flask==2.2.2

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block page_title %}
+    Charity List
+{% endblock %}
+
+{% block content %}
+    <h1>Charity List</h1>
+
+    {% for charity in charities %}
+        <div>
+            <h2>{{ charity.id }}</h2>
+        </div>
+    {% endfor %}
+{% endblock %}
