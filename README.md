@@ -13,6 +13,8 @@
 
 The tasks do not have to be completed in order and it is not expected for all tasks to be completed.
 
+You may use whatever reference materials, search engines, or other information sources as you see fit.
+
 ### Flask Tasks
 
 - Access the app from your browser and verify that the "Charity List" view is working.
